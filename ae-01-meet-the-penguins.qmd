@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-For this application exercise, we'll use the **tidyverse** and **palmerpenguins** packages.
+For this application exercise, we'll use the tidyverse and palmerpenguins packages.
 
 ```{r}
 #| label: load-packages
@@ -16,6 +16,10 @@ library(palmerpenguins)
 
 The dataset we will visualize is called `penguins`.
 Let's `glimpse()` at it.
+
+```{r}
+2 * 4
+```
 
 -   **Your turn:** Replace `#add code here` with the code for "glimpse"ing at the data `penguins` data frame – `glimpse(penguins)`. Render the document and view the output.
 
