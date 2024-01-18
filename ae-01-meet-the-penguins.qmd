@@ -1,6 +1,6 @@
 ---
 title: "AE 01: Meet the penguins"
-author: "Insert name"
+author: "Mine Cetinkaya-Rundel"
 format: html
 editor: visual
 ---
