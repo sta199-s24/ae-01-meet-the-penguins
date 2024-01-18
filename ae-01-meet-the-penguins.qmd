@@ -37,4 +37,4 @@ Let's `glimpse()` at it.
 nrow(penguins)
 ```
 
-There are \_\_\_ penguins in the `penguins` data frame.
+There are 344 penguins in the `penguins` data frame.
